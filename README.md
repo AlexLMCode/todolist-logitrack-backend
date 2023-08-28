@@ -32,6 +32,10 @@
 $ npm install
 ```
 
+## Installation of docker MYSQL
+[MySql docker](https://hub.docker.com/_/mysql) mysql docker.
+
+
 ## Running the app
 
 ```bash
